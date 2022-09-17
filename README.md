@@ -1,4 +1,4 @@
-# Failures Registered in the Power Grid in 2020 (Lages region)
+# Failures Registered in the Power Grid (Lages region)
 
 Data provided by _Centrais Elétricas de Santa Catarina (CELESC)_.
 
