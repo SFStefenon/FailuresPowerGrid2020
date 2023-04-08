@@ -9,4 +9,16 @@ It is located in the mountain region of the state. Economically, the city is kno
 
 ![image](https://user-images.githubusercontent.com/88292916/190849572-4cb9c057-5ff0-4c6e-b837-a1a0bbc84c6d.png)
 
+---
 
+Additional information can be found at the **[Original Paper](https://doi.org/10.3390/s22218323)**.
+
+BibTeX:
+`@Article{s22218323, AUTHOR = {Branco, Nathielle Waldrigues and Cavalca, Mariana Santos Matos and Stefenon, Stefano Frizzo and Leithardt, Valderi Reis Quietinho}, TITLE = {{Wavelet LSTM} for fault forecasting in electrical power grids}, JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {21}, PAGES = {8323}, DOI = {10.3390/s22218323}}`
+
+
+
+---
+Dr. **Stefano Frizzo Stefenon**
+
+Trento, Italy, March 10, 2023.
