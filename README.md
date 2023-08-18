@@ -13,6 +13,8 @@ It is located in the mountain region of the state. Economically, the city is kno
 
 Additional information can be found at the **[Original Paper](https://doi.org/10.3390/s22218323)**.
 
+Branco, N. W., Cavalca, M. S. M., Stefenon, S. F., Leithardt, V. R. Q., Wavelet LSTM for fault forecasting in electrical power grids, Sensors, vol. 22, n. 21, p. 8323, 2022. 
+
 BibTeX:
 `@Article{s22218323, AUTHOR = {Branco, Nathielle Waldrigues and Cavalca, Mariana Santos Matos and Stefenon, Stefano Frizzo and Leithardt, Valderi Reis Quietinho}, TITLE = {{Wavelet LSTM} for fault forecasting in electrical power grids}, JOURNAL = {Sensors}, VOLUME = {22}, YEAR = {2022}, NUMBER = {21}, PAGES = {8323}, DOI = {10.3390/s22218323}}`
 
